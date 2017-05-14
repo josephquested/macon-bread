@@ -1,0 +1,58 @@
+* {
+  font-family: 'Slabo 27px', serif;
+}
+
+body {
+  text-align: center;
+  background-color: #F5DEB3;
+}
+
+h1 {
+  font-size: 6vw;
+  margin-bottom: 0px;
+}
+
+p {
+  margin-right: 5vw;
+  margin-left: 5vw;
+}
+
+/* LINKS */
+
+a {
+  margin-bottom: 180px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
